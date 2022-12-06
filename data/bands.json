@@ -1,0 +1,58 @@
+{
+    "23cm": {
+        "lowerMhz": 1240.0,
+        "upperMhz": 1300.0
+    },
+    "70cm": {
+        "lowerMhz": 420.0,
+        "upperMhz": 450.0
+    },
+    "1.25m": {
+        "lowerMhz": 222.1,
+        "upperMhz": 225.0
+    },
+    "2m": {
+        "lowerMhz": 144.0,
+        "upperMhz": 148.0
+    },
+    "6m": {
+        "lowerMhz": 50.1,
+        "upperMhz": 54
+    },
+    "10m": {
+        "lowerMhz": 28.0,
+        "upperMhz": 29.7
+    },
+    "12m": {
+        "lowerMhz": 24.89,
+        "upperMhz": 24.99
+    },
+    "15m": {
+        "lowerMhz": 21.0,
+        "upperMhz": 21.45
+    },
+    "17m": {
+        "lowerMhz": 18.068,
+        "upperMhz": 18.168
+    },
+    "20m": {
+        "lowerMhz": 14.0,
+        "upperMhz": 14.35
+    },
+    "30m": {
+        "lowerMhz": 10.1,
+        "upperMhz": 10.15
+    },
+    "40m": {
+        "lowerMhz": 7.0,
+        "upperMhz": 7.3
+    },
+    "80m": {
+        "lowerMhz": 3.5,
+        "upperMhz": 4.0
+    },
+    "160m": {
+        "lowerMhz": 1.8,
+        "upperMhz": 2.0
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "6m": {
+        "lowerMhz": 50.0,
+        "upperMhz": 52.0
+    },
+    "10m": {
+        "lowerMhz": 28.0,
+        "upperMhz": 28.7
+    },
+    "12m": {
+        "lowerMhz": 24.89,
+        "upperMhz": 24.99
+    },
+    "15m": {
+        "lowerMhz": 21.0,
+        "upperMhz": 21.45
+    },
+    "17m": {
+        "lowerMhz": 18.068,
+        "upperMhz": 18.168
+    },
+    "20m": {
+        "lowerMhz": 14.0,
+        "upperMhz": 14.35
+    },
+    "30m": {
+        "lowerMhz": 10.1,
+        "upperMhz": 10.15
+    },
+    "40m": {
+        "lowerMhz": 7.0,
+        "upperMhz": 7.3
+    },
+    "60m": {
+        "lowerMhz": 5.268,
+        "upperMhz": 5.439
+    },
+    "80m": {
+        "lowerMhz": 3.5,
+        "upperMhz": 3.85
+    },
+    "160m": {
+        "lowerMhz": 1.8,
+        "upperMhz": 1.93
+    }
+}

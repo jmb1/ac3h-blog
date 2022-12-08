@@ -20,6 +20,14 @@ class FrequencyBand:
     def tuple(self, unit: u.Unit = u.Hz):
         return self.low(unit), self.high(unit)
 
+    def bandwidth(self, unit: u.Unit = u.Hz):
+        x = self.tuple(unit=unit)
+        return x[1] - x[0]
+
+    def center(self, unit: u.Unit = u.Hz):
+        x = self.tuple(unit=unit)
+        return x[0] + 0.5*(self.bandwidth(unit=unit))
+
     def __str__(self):
         return '(%g Hz, %g Hz)' % (self._interval.start, self._interval.end)
 
